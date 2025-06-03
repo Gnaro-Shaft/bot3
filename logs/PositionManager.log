@@ -1,0 +1,65 @@
+2025-06-02 11:12:10,788 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2489.1499999999996, 'size': 0.02, 'open_time': '2025-06-02T09:12:10.787147'}
+2025-06-02 11:16:30,132 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 11:16:31,172 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2480.4750000000004, 'size': 0.02, 'open_time': '2025-06-02T09:16:31.171945'}
+2025-06-02 11:24:30,153 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 11:24:31,198 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2489.0, 'size': 0.02, 'open_time': '2025-06-02T09:24:31.197737'}
+2025-06-02 12:00:20,811 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2484.425, 'size': 0.02, 'open_time': '2025-06-02T10:00:20.810591'}
+2025-06-02 12:06:01,353 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2479.15, 'size': 0.02, 'open_time': '2025-06-02T10:06:01.352924'}
+2025-06-02 12:07:53,072 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:07:54,118 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2487.55, 'size': 0.02, 'open_time': '2025-06-02T10:07:54.117616'}
+2025-06-02 12:13:33,347 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2488.75, 'size': 0.02, 'open_time': '2025-06-02T10:13:33.347235'}
+2025-06-02 12:14:02,957 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:14:04,004 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2489.825, 'size': 0.02, 'open_time': '2025-06-02T10:14:04.003828'}
+2025-06-02 12:15:31,455 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:15:32,500 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2488.7, 'size': 0.02, 'open_time': '2025-06-02T10:15:32.499789'}
+2025-06-02 12:17:22,260 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:17:23,298 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2482.625, 'size': 0.02, 'open_time': '2025-06-02T10:17:23.298598'}
+2025-06-02 12:22:11,079 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:22:12,120 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2481.1499999999996, 'size': 0.02, 'open_time': '2025-06-02T10:22:12.119506'}
+2025-06-02 12:25:23,298 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:25:24,342 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2481.4, 'size': 0.02, 'open_time': '2025-06-02T10:25:24.342338'}
+2025-06-02 12:26:41,350 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:26:42,439 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2484.575, 'size': 0.02, 'open_time': '2025-06-02T10:26:42.439063'}
+2025-06-02 12:35:41,524 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2481.5, 'size': 0.02, 'open_time': '2025-06-02T10:35:41.524250'}
+2025-06-02 12:42:13,259 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2485.9, 'size': 0.02, 'open_time': '2025-06-02T10:42:13.258793'}
+2025-06-02 12:45:31,788 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:45:32,836 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2483.7, 'size': 0.02, 'open_time': '2025-06-02T10:45:32.836114'}
+2025-06-02 12:48:21,555 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:48:22,602 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2484.9, 'size': 0.02, 'open_time': '2025-06-02T10:48:22.602287'}
+2025-06-02 12:52:16,293 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:52:17,341 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2483.2, 'size': 0.02, 'open_time': '2025-06-02T10:52:17.341317'}
+2025-06-02 12:55:36,211 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:55:37,248 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2485.75, 'size': 0.02, 'open_time': '2025-06-02T10:55:37.247939'}
+2025-06-02 12:59:36,765 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 12:59:37,809 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2483.525, 'size': 0.02, 'open_time': '2025-06-02T10:59:37.808957'}
+2025-06-02 13:09:40,970 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:09:42,013 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2482.95, 'size': 0.02, 'open_time': '2025-06-02T11:09:42.012482'}
+2025-06-02 13:16:32,433 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:16:33,477 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2486.85, 'size': 0.02, 'open_time': '2025-06-02T11:16:33.476738'}
+2025-06-02 13:19:41,153 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:19:42,269 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2486.225, 'size': 0.02, 'open_time': '2025-06-02T11:19:42.269161'}
+2025-06-02 13:20:35,874 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:20:36,917 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2486.85, 'size': 0.02, 'open_time': '2025-06-02T11:20:36.916676'}
+2025-06-02 13:32:52,296 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:32:53,339 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2485.4249999999997, 'size': 0.02, 'open_time': '2025-06-02T11:32:53.339375'}
+2025-06-02 13:35:33,300 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:35:34,345 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2487.15, 'size': 0.02, 'open_time': '2025-06-02T11:35:34.344775'}
+2025-06-02 13:37:10,907 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:37:11,947 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2486.75, 'size': 0.02, 'open_time': '2025-06-02T11:37:11.947293'}
+2025-06-02 13:39:50,168 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:39:51,209 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2482.85, 'size': 0.02, 'open_time': '2025-06-02T11:39:51.209660'}
+2025-06-02 13:41:43,102 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:41:44,146 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2483.2, 'size': 0.02, 'open_time': '2025-06-02T11:41:44.146148'}
+2025-06-02 13:44:22,235 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 13:44:23,305 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2479.9750000000004, 'size': 0.02, 'open_time': '2025-06-02T11:44:23.304813'}
+2025-06-02 17:05:20,387 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2526.125, 'size': 0.02, 'open_time': '2025-06-02T15:05:20.387363'}
+2025-06-02 17:14:30,232 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 17:14:31,274 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2536.875, 'size': 0.02, 'open_time': '2025-06-02T15:14:31.274130'}
+2025-06-02 17:18:21,417 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 17:18:22,456 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2537.775, 'size': 0.02, 'open_time': '2025-06-02T15:18:22.455669'}
+2025-06-02 17:22:06,444 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 17:22:07,482 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2535.05, 'size': 0.02, 'open_time': '2025-06-02T15:22:07.481541'}
+2025-06-02 17:28:32,629 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 17:28:33,668 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'long', 'entry_price': 2546.425, 'size': 0.02, 'open_time': '2025-06-02T15:28:33.668358'}
+2025-06-02 20:58:13,545 | INFO | PositionManager | Position clôturée localement.
+2025-06-02 20:58:14,589 | INFO | PositionManager | Position ouverte : {'symbol': 'PF_ETHUSD', 'side': 'short', 'entry_price': 2543.9, 'size': 0.02, 'open_time': '2025-06-02T18:58:14.589253'}
